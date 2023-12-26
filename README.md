@@ -11,7 +11,7 @@ Dart 기초 문법 자료입니다.
 
 ## Lectures
 
-- 1.  Variables
-- 2.  Data Types
-- 3.  Functions
-- 4.  Classes
+1.  Variables
+2.  Data Types
+3.  Functions
+4.  Classes
