@@ -3,7 +3,7 @@
 - Strings: String
 - Booleans: bool
 - Lists: List<data type>
-- Maps: Map<Key, Value> <- dart에서는 map보다 class를 사용하는 걸 권장 (dart는 객체지향언어)
+- Maps: Map<key, value> <- dart에서는 map보다 class를 사용하는 걸 권장 (dart는 객체지향언어)
 - Sets: Set<data type>
 - Runes: Runes <- 문자의 코드 포인트를 나타낼 때 사용, 주로 유니코드를 다룰 때 사용
 - Symbols: Symbol <- dart 언어의 심볼을 나타낼 때 사용, 주로 리플렉션과 관련된 작업에서 사용 

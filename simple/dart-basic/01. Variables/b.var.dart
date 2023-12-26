@@ -2,9 +2,7 @@
 - 관습적으로 함수나 메소드 내부에 지역 변수를 선언할 때 var 사용 
 */
 
-void 
-
-main() {
+void main() {
   var _int = 42; // int
   var _double = 3.14; // double
   var _string = 'Dart'; // String
